@@ -1,4 +1,7 @@
-#url = "https://api.openweathermap.org/data/2.5/weather?lat=44.34&lon=10.99&appid=9a7ad1c9a2fe641ded4ee571f56df333" 
+#Surafel Abebe
+#Homework1 -C148
+#This script reads sends a get request using a weather api and receives back a json response which has the current weather for a city specefied by the user
+#The pdf file has all the screenshot of the packets going through the network on wireshark
 
 import requests
 import json
